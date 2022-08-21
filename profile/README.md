@@ -14,9 +14,24 @@
 
 ### What is Codawah 🤔
 Codawah is stand for Code Dawah. It is non-profit Organization and Open source community. Spread the code / technology literacy across the country.
-### Main Purpose
+#### Main Purpose
 Provide free help and support  in Tech industry for the community free lectures.
 Provide a single platform where students and experts can interact and help each other.
 Build open source software to solve different problems using Technology in order to enable smart cities.
-### Mission 🎯
+#### Mission 🎯
 Make Pakistan's 1 High Tech Country
+
+#### Key Feature
+- Free mentoring
+- Free Weekly Lectures
+- Open source projects
+- Free guide in Job hunting
+- Free Interviews preparation
+- Also opportunity to work with our Open Source Projects
+---
+### Contribution guidelines
+- If you are new to tech, you can start you learning and open source contribution from here. [Get-Started](https://github.com/Codawah/Get-Started)
+- If you are experienced and want to share your knowladge, You can Join us.
+---
+### Join Us
+ [Join Us On Slick](https://join.slack.com/t/codawahcommunity/shared_invite/zt-1eoh9uphg-vUwOOyqbdO1D8ZTVdgRoiQ)
