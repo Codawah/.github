@@ -10,3 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### What is Codawah 🤔
+Codawah is stand for Code Dawah. It is non-profit Organization and Open source community. Spread the code / technology literacy across the country.
+### Main Purpose
+Provide free help and support  in Tech industry for the community free lectures.
+Provide a single platform where students and experts can interact and help each other.
+Build open source software to solve different problems using Technology in order to enable smart cities.
+### Mission 🎯
+Make Pakistan's 1 High Tech Country
