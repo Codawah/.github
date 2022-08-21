@@ -13,7 +13,7 @@
 -->
 
 ### What is Codawah 🤔
-Codawah is stand for Code Dawah. It is non-profit Organization and Open source community. Spread the code / technology literacy across the country.
+Codawah is stand for Code Dawah. It is non-profit Organization and Open source community. ( *Spreading code everywhere* )/ technology literacy across the country.
 #### Main Purpose
 Provide free help and support  in Tech industry for the community free lectures.
 Provide a single platform where students and experts can interact and help each other.
